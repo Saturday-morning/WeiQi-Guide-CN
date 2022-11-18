@@ -1,10 +1,6 @@
 # WeiQi-Guide-CN
 从初学者到野狐10k——围棋入门教程
 
-
-国内的用户可以点击[链接](https://cdn.githubjs.cf/Saturday-morning/WeiQi-Guide-CN/blob/main/%E5%9B%B4%E6%A3%8B%E5%85%A5%E9%97%A8_%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0%E9%87%8E%E7%8B%90%E4%B8%80%E6%AE%B5_v1.01.pdf)下载（只是github的镜像站而已）
-
-
 （为什么不是野狐1d？，因为只有 half
 
 这是一个巅峰期碰到野狐1段左右水平的棋友——我写出来的围棋入门教程。
