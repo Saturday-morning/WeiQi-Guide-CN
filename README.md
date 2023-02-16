@@ -5,4 +5,4 @@
 
 这个教程用来作为一些补充.
 
-Please open the pdf file and download it! 
+Just open the pdf file and download it! 
